@@ -1,9 +1,13 @@
+![logo](https://user-images.githubusercontent.com/96206184/211674640-5d2084bb-3c57-4c06-b118-b35858e27715.png)
+
+
+
 <h1 align="center">Unleashing C++: From Basic to Advanced</h1>
 
 <p align="center">Welcome to my comprehensive C++ programming course! Whether you are a new programmer looking to deepen your understanding of the C++ language, or an experienced developer looking to learn new skills, this course has something for everyone.</p>
 
 
-
+<br>
 <h2>Course Scope</h2>
 
 <p>In this course, we will begin by introducing you to the C++ development environment and the basic syntax of the language. As we progress, you will learn about variables and data types, control flow and looping constructs, functions and arrays, and pointers. We will then delve into object-oriented programming in C++ and cover topics such as classes, objects, inheritance, polymorphism, and operator overloading. You will also learn about templates, the Standard Template Library (STL), input/output, file processing, and exception handling. Additionally, we will cover some of the new features and improvements in C++11/14/17/20 such as automatic type inference, lambda functions, move semantics, and the Concurrency and Parallelism library.</p>
