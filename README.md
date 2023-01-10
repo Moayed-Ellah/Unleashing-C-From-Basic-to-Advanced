@@ -10,7 +10,7 @@
 <br>
 <h2>Course Scope</h2>
 
-<p>In this course, we will begin by introducing you to the C++ development environment and the basic syntax of the language. As we progress, you will learn about variables and data types, control flow and looping constructs, functions and arrays, and pointers. We will then delve into object-oriented programming in C++ and cover topics such as classes, objects, inheritance, polymorphism, and operator overloading. You will also learn about templates, the Standard Template Library (STL), input/output, file processing, and exception handling. Additionally, we will cover some of the new features and improvements in C++11/14/17/20 such as automatic type inference, lambda functions, move semantics, and the Concurrency and Parallelism library.</p>
+<p>In this course, we will begin by introducing you to the C++ development environment and the basic syntax of the language. As we progress, you will learn about variables and data types, control flow and looping constructs, functions and arrays, and pointers. We will then delve into object-oriented programming in C++ and cover topics such as classes, objects, inheritance, polymorphism, and operator overloading. You will also learn about templates, the Standard Template Library (STL), input/output, file processing, and exception handling. Additionally, we will cover some of the new features and improvements such as automatic type inference, lambda functions, move semantics, and the Concurrency and Parallelism library.</p>
 
 <p>Throughout the course, you will be able to apply your knowledge through practical projects and exercises, giving you real-world experience working with C++. By the end of this course, you will have a solid understanding of C++ programming and be well-prepared to continue your journey as a C++ developer.</p>
 
@@ -114,8 +114,6 @@
   <li>Input/Output and File Processing</li>
 
   <li>Exception Handling and Advanced Topics</li>
-
-  <li>C++11/14/17/20 features</li>
 
   <li>Practise and Project</li>
 
