@@ -14,7 +14,7 @@
 
 <h2>Prerequisites</h2>
 
-<p>To make the most out of this course, students should have a basic understanding of programming concepts, and a good understanding of computers and operating systems. Additionally, students should be familiar with text editors and have a strong desire to learn and grow as a C++ developer.</p>
+<p>To make the most out of this course, you should have a basic understanding of programming concepts, and a good understanding of computers and operating systems. Additionally, you should be familiar with text editors and have a strong desire to learn and grow as a C++ developer.</p>
 
 
 
