@@ -2,12 +2,7 @@
 
 
 
-
-
-<title>Unleashing C++: From Basic to Advanced</title>
-
-
-<h1>Unleashing C++: From Basic to Advanced</h1>
+<h1 align="center">Unleashing C++: From Basic to Advanced</h1>
 
 <h2>Table of Contents</h2>
 <ul>
@@ -44,13 +39,119 @@
 
 <h2 id="instructor-information">Instructor Information</h2>
 
-<p>The instructor is a software developer and a student at a community college. He have worked on projects for over six years, including system software, website development, and AI applications. He is passionate about learning and sharing his knowledge with other students.</p>
+<p>I am a software developer and a student at a community college. I have worked on projects for over six years, including system software, website development, and AI applications. I am passionate about learning and sharing my knowledge with other students. I am excited to do this through this course.</p>
 
 
 
 <h2 id="course-scope">Course Scope</h2>
 
 <p>In this course, we will begin by introducing you to the C++ development environment and the basic syntax of the language. As we progress, you will learn about variables and data types, control flow and looping constructs, functions and arrays, and pointers. We will then delve into object-oriented programming in C++ and cover topics such as classes, objects, inheritance, polymorphism, and operator overloading. You will also learn about templates, the Standard Template Library (STL), input/output, file processing, and exception handling. Additionally, we will cover some of the new features and improvements such as automatic type inference, lambda functions, move semantics, and the Concurrency and Parallelism library.</p>
+
+<table align="center" width="100%">
+<thead>
+  <tr>
+    <th>Unit</th>
+    <th>Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Unit 1: Introduction to C++</td>
+    <td>
+      <ul>
+        <li>Introduction to the C++ development environment</li>
+        <li>Basic C++ syntax and structure</li>
+        <li>Compiling and executing C++ programs</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Unit 2: Variables and Data Types</td>
+    <td>
+      <ul>
+        <li>Understanding basic data types in C++</li>
+        <li>Creating and initializing variables</li>
+        <li>Typecasting and type conversion</li>
+        <li>Constants and defined variables</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+  <td>Unit 3: Control Flow and Looping</td>
+  <td>
+    <ul>
+      <li>Conditional statements (if, else, switch)</li>
+      <li>Looping constructs (for, while, do-while)</li>
+      <li>Jump statements (break, continue, goto)</li>
+    </ul>
+  </td>
+</tr>
+<tr>
+  <td>Unit 4: Functions and Arrays</td>
+  <td>
+    <ul>
+      <li>Creating and calling functions</li>
+      <li>Understanding function parameter passing</li>
+      <li>Using arrays and array manipulation</li>
+      <li>Strings and string manipulation</li>
+    </ul>
+  </td>
+</tr>
+<tr>
+  <td>Unit 5: Pointers and Memory Management</td>
+  <td>
+    <ul>
+      <li>Understanding pointers and the memory model</li>
+      <li>Dynamic memory allocation and deallocation</li>
+      <li>Pointers to objects and classes</li>
+      <li>Smart pointers and reference counting</li>
+    </ul>
+  </td>
+</tr>
+<tr>
+  <td>Unit 6: Object-Oriented Programming</td>
+  <td>
+    <ul>
+      <li>Understanding classes and objects</li>
+      <li>Inheritance and polymorphism</li>
+      <li>Operator overloading and friend functions</li>
+      <li>Abstract classes and pure virtual functions</li>
+</ul>
+  </td>
+</tr>
+<tr>
+  <td>Unit 7: Templates and Standard Template Library (STL)</td>
+  <td>
+    <ul>
+      <li>Understanding templates and function templates</li>
+      <li>Understanding class templates and generic programming</li>
+      <li>Standard Template Library (STL)</li>
+    </ul>
+  </td>
+</tr>
+<tr>
+  <td>Unit 8: Exception Handling, Input/Output, and File Processing</td>
+  <td>
+    <ul>
+      <li>Understanding exception handling and try-catch blocks</li>
+      <li>Input/output streams and file handling</li>
+      <li>Manipulating files and directories</li>
+    </ul>
+  </td>
+</tr>
+<tr>
+  <td>Unit 9: Advanced C++ Features and Improvements</td>
+  <td>
+    <ul>
+      <li>Automatic type inference and type deduction</li>
+      <li>Lambda functions and closures</li>
+    </ul>
+  </td>
+</tr>
+</tbody>
+
+</table>
+
 
 
 
