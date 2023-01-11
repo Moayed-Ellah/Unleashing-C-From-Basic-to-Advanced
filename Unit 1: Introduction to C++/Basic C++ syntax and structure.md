@@ -172,13 +172,10 @@ so if we type in `20` as our input, the variable `age` will be assigned this val
 There's an easy way to differentiate between both, apart from the in and out, you can imagine it as an arrow, wherever the arrow is being shot at is where it is going to put its value in, and wherever it's shot from, it takes the value behind it with it.
 
 
-
-
-
-this was the very basic input and output of C++, there'll be a small test on the github [repo](https://github.com/Moayed-Ellah/Unleashing-C-From-Basic-to-Advanced) along with an assignment of a small project.
-
+Here's a small exam to test out your understanding so far
+[Basic C++ syntax and structure.pdf](https://github.com/Moayed-Ellah/Unleashing-C-From-Basic-to-Advanced/files/10394464/Basic.C%2B%2B.syntax.and.structure.pdf)
 
 
 If you have any questions, feedback or would like to know more about me. 
 
-you can reach me out on my [LinkedIn](https://www.linkedin.com/in/moayedellah/), [github](https://github.com/Moayed-Ellah)
+you can reach me out on my [LinkedIn](https://www.linkedin.com/in/moayedellah/)
