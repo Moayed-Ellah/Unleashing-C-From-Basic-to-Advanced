@@ -59,7 +59,6 @@
     <td>Unit 1: Introduction to C++</td>
     <td>
       <ul>
-        <li>Introduction to the C++ development environment</li>
         <li>Basic C++ syntax and structure</li>
         <li>Compiling and executing C++ programs</li>
       </ul>
